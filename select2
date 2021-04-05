@@ -1,0 +1,19 @@
+<!-- try2 -->
+              <!-- <?php
+              $query = mysqli_query($dbconn,"SELECT * FROM car");
+              
+              $rowcount = mysqli_num_rows($query);
+             
+              ?>
+              <select name="car">
+              <option value="">--option--</option>
+              <?php
+              for ($i=1; $i<=$rowcount; $i++)
+              {
+                $row=mysqli_fetch_array($query);
+              ?>
+              <option name="car_number" value="<?php echo $row["carnumber"] ?>"><?php echo $row["carnumber"] ?></option>
+              <?php
+              }
+            ?>
+              </select>    -->

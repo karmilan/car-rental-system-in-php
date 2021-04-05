@@ -1,0 +1,12 @@
+ <!-- <?php
+    // if(isset($_GET['carnumber'])){
+    //   $carnumber = $_GET['carnumber'];
+
+      // $sql = "SELECT * FROM car ";
+      // if($result = mysqli_query($dbconn, $sql)) {
+      //     if(mysqli_num_rows($result) > 0) {
+      //         while($row = mysqli_fetch_array($result)){
+      //           //  $dbselected = $row['carnumber'];
+      //             echo $row['carnumber'];
+      //         }}}
+              ?> -->
